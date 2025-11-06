@@ -1,0 +1,1 @@
+mysql-connector JAR not included due to environment restrictions. See README.md for instructions.
